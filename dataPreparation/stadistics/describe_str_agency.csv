@@ -1,0 +1,5 @@
+,date_format,agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+count,2,2,2,2,2,2,2
+unique,2,1,1,1,1,1,1
+top,2022-09-03,STIB-MIVB,STIB,http://www.stib-mivb.be,Europe/Brussels,fr,070 23 2000
+freq,1,2,2,2,2,2,2
