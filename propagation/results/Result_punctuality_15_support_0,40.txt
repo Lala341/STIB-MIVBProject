@@ -1,0 +1,66 @@
+0.421: <str_stop = 2848F, str_stop = 6649F>  
+0.432: <str_stop = 5071, str_stop = 5072>  
+0.418: <str_stop = 5071, str_stop = 5074F>  
+0.418: <str_stop = 5071, str_stop = 5076F>  
+0.407: <str_stop = 5071, str_stop = 5077>  
+0.424: <str_stop = 5071, str_stop = 5089>  
+0.412: <str_stop = 5071, str_stop = 6649F>  
+0.432: <str_stop = 5072, str_stop = 5074F>  
+0.421: <str_stop = 5072, str_stop = 5076F>  
+0.452: <str_stop = 5072, str_stop = 5089>  
+0.401: <str_stop = 5072, str_stop = 6649F>  
+0.506: <str_stop = 5074F, str_stop = 5076F>  
+0.480: <str_stop = 5074F, str_stop = 5077>  
+0.452: <str_stop = 5074F, str_stop = 5089>  
+0.424: <str_stop = 5074F, str_stop = 6649F>  
+0.444: <str_stop = 5074F, str_stop = 5078F>  
+0.463: <str_stop = 5074F, str_stop = 5079>  
+0.407: <str_stop = 5074F, str_stop = 5080>  
+0.407: <str_stop = 5074F, str_stop = 5081F>  
+0.494: <str_stop = 5076F, str_stop = 5077>  
+0.446: <str_stop = 5076F, str_stop = 5089>  
+0.418: <str_stop = 5076F, str_stop = 6649F>  
+0.460: <str_stop = 5076F, str_stop = 5078F>  
+0.477: <str_stop = 5076F, str_stop = 5079>  
+0.415: <str_stop = 5076F, str_stop = 5080>  
+0.407: <str_stop = 5076F, str_stop = 5081F>  
+0.415: <str_stop = 5077, str_stop = 5089>  
+0.404: <str_stop = 5077, str_stop = 6649F>  
+0.486: <str_stop = 5077, str_stop = 5078F>  
+0.489: <str_stop = 5077, str_stop = 5079>  
+0.412: <str_stop = 5077, str_stop = 5080>  
+0.410: <str_stop = 5077, str_stop = 5081F>  
+0.404: <str_stop = 5089, str_stop = 6649F>  
+0.410: <str_stop = 5089, str_stop = 5079>  
+0.401: <str_stop = 6649F, str_stop = 5079>  
+0.514: <str_stop = 5078F, str_stop = 5079>  
+0.438: <str_stop = 5078F, str_stop = 5080>  
+0.427: <str_stop = 5078F, str_stop = 5081F>  
+0.444: <str_stop = 5079, str_stop = 5080>  
+0.435: <str_stop = 5079, str_stop = 5081F>  
+0.427: <str_stop = 5080, str_stop = 5081F>  
+0.407: <str_stop = 5072, str_stop = 5074F, str_stop = 5076F>  
+0.401: <str_stop = 5072, str_stop = 5074F, str_stop = 5089>  
+0.466: <str_stop = 5074F, str_stop = 5076F, str_stop = 5077>  
+0.432: <str_stop = 5074F, str_stop = 5076F, str_stop = 5089>  
+0.429: <str_stop = 5074F, str_stop = 5076F, str_stop = 5078F>  
+0.441: <str_stop = 5074F, str_stop = 5076F, str_stop = 5079>  
+0.407: <str_stop = 5074F, str_stop = 5077, str_stop = 5089>  
+0.441: <str_stop = 5074F, str_stop = 5077, str_stop = 5078F>  
+0.444: <str_stop = 5074F, str_stop = 5077, str_stop = 5079>  
+0.432: <str_stop = 5074F, str_stop = 5078F, str_stop = 5079>  
+0.410: <str_stop = 5076F, str_stop = 5077, str_stop = 5089>  
+0.446: <str_stop = 5076F, str_stop = 5077, str_stop = 5078F>  
+0.452: <str_stop = 5076F, str_stop = 5077, str_stop = 5079>  
+0.446: <str_stop = 5076F, str_stop = 5078F, str_stop = 5079>  
+0.463: <str_stop = 5077, str_stop = 5078F, str_stop = 5079>  
+0.418: <str_stop = 5078F, str_stop = 5079, str_stop = 5080>  
+0.407: <str_stop = 5078F, str_stop = 5079, str_stop = 5081F>  
+0.401: <str_stop = 5079, str_stop = 5080, str_stop = 5081F>  
+0.404: <str_stop = 5074F, str_stop = 5076F, str_stop = 5077, str_stop = 5089>  
+0.427: <str_stop = 5074F, str_stop = 5076F, str_stop = 5077, str_stop = 5078F>  
+0.429: <str_stop = 5074F, str_stop = 5076F, str_stop = 5077, str_stop = 5079>  
+0.418: <str_stop = 5074F, str_stop = 5076F, str_stop = 5078F, str_stop = 5079>  
+0.429: <str_stop = 5074F, str_stop = 5077, str_stop = 5078F, str_stop = 5079>  
+0.432: <str_stop = 5076F, str_stop = 5077, str_stop = 5078F, str_stop = 5079>  
+0.415: <str_stop = 5074F, str_stop = 5076F, str_stop = 5077, str_stop = 5078F, str_stop = 5079>  

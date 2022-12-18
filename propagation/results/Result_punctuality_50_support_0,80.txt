@@ -1,0 +1,9 @@
+0.805: <str_stop = 9651, str_stop = 9660>  
+0.802: <str_stop = 9651, str_stop = 9654>  
+0.809: <str_stop = 9652, str_stop = 9660>  
+0.800: <str_stop = 9652, str_stop = 9654>  
+0.802: <str_stop = 9656, str_stop = 9657>  
+0.815: <str_stop = 9656, str_stop = 9660>  
+0.827: <str_stop = 9656, str_stop = 9654>  
+0.835: <str_stop = 9660, str_stop = 9654>  
+0.802: <str_stop = 9656, str_stop = 9660, str_stop = 9654>  

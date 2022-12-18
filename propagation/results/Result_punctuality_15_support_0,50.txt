@@ -1,0 +1,2 @@
+0.506: <str_stop = 5074F, str_stop = 5076F>  
+0.514: <str_stop = 5078F, str_stop = 5079> 
